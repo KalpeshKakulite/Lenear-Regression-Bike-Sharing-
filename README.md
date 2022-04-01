@@ -40,6 +40,6 @@ Based on various meteorological surveys and people's styles, the service provide
 
 **Inferences:**
 1. **Best fitted line:** 
-count= 0.0529 x Sep-0.0528x Dec-0.0558x Jan-0.0651x Nov-0.29x Light Snow-0.08xMist and cloudy-0.1042x spring-0.1081x holiday+0.4005x temp
+count(y)= 0.0529 x Sep-0.0528x Dec-0.0558x Jan-0.0651x Nov-0.29x Light Snow-0.08xMist and cloudy-0.1042x spring-0.1081x holiday+0.4005x temp
 
 2. Demand decreases if it is Holiday , Spring, Light Snow ,Jan, Dec
