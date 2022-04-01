@@ -1,4 +1,4 @@
-# Lenear-Regression-Bike-Sharing-
+# Lenear-Regression-Bike-Sharing
 **Problem Statement**
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
@@ -14,3 +14,32 @@ They have contracted a consulting company to understand the factors on which the
 Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
+
+**Steps Involved:**
+1. Importing Libraries
+2. Loading and Analysing the DATA
+3. Data Cleaning & Manipulation
+4. Handling Outliers
+5. Handling Null Values
+6. Exploratory Data Analysis (EDA): Univariate and Bivariate Analysis 
+7. Splitting the Data into Training and Testing Sets
+8. Building a Linear Model
+   a) SciKit Learn for its compatibility with RFE (which is a utility from sklearn)
+   b) BUILDING MODEL USING STATSMODEL
+9. Making Predictions
+10. Model Evaluation
+
+**Libraries Used:**
+1. NumPy as np
+2. Pandas as pd
+3. Matplotlib.pyplot as plt
+4. Seaborn as sns
+5. statsmodels.api as sm 
+6. RFE from sklearn
+7. Variance_inflation_factor (VIF)
+
+**Inferences:**
+1. **Best fitted line:** 
+count= 0.0529 x Sep-0.0528x Dec-0.0558x Jan-0.0651x Nov-0.29x Light Snow-0.08xMist and cloudy-0.1042x spring-0.1081x holiday+0.4005x temp
+
+2. Demand decreases if it is Holiday , Spring, Light Snow ,Jan, Dec
