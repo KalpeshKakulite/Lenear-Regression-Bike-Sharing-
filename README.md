@@ -43,3 +43,6 @@ Based on various meteorological surveys and people's styles, the service provide
 count(y)= 0.0529 x Sep-0.0528x Dec-0.0558x Jan-0.0651x Nov-0.29x Light Snow-0.08xMist and cloudy-0.1042x spring-0.1081x holiday+0.4005x temp
 
 2. Demand decreases if it is Holiday , Spring, Light Snow ,Jan, Dec
+
+![image](https://user-images.githubusercontent.com/90130378/161399663-b319c761-d5b8-4db4-8a54-dcc409dc1c32.png)
+
