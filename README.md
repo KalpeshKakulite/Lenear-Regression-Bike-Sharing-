@@ -44,5 +44,16 @@ count(y)= 0.0529 x Sep-0.0528x Dec-0.0558x Jan-0.0651x Nov-0.29x Light Snow-0.08
 
 2. Demand decreases if it is Holiday , Spring, Light Snow ,Jan, Dec
 
-![image](https://user-images.githubusercontent.com/90130378/161399663-b319c761-d5b8-4db4-8a54-dcc409dc1c32.png)
+
+![image](https://user-images.githubusercontent.com/90130378/161399743-efc85635-1dfa-444f-96f0-0b31b3138196.png)
+![image](https://user-images.githubusercontent.com/90130378/161399750-a8180184-8f69-4db2-8fd7-38b17ffe2d71.png)
+![image](https://user-images.githubusercontent.com/90130378/161399769-75c2cdb2-89ae-4e8e-981c-fe91921b819a.png)
+![image](https://user-images.githubusercontent.com/90130378/161399786-465950f6-9d27-4dfc-b85a-c5722ac10af1.png)
+![image](https://user-images.githubusercontent.com/90130378/161399804-f4f37ace-683b-41ab-8cd9-5b180c3789d9.png)
+![image](https://user-images.githubusercontent.com/90130378/161399814-a15f093d-f348-4830-9f1b-bb62455da44a.png)
+
+
+
+
+
 
